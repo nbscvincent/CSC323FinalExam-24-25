@@ -1,0 +1,73 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+generated_plugin_registrant.dart
+
+# User-specific
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.iml
+*.ipr
+*.hprof
+
+# VS Code
+.vscode/
+!/.vscode/tasks.json
+!/.vscode/launch.json
+!/.vscode/extensions.json
+
+# IntelliJ
+*.iml
+*.iws
+.idea/
+
+# macOS
+*.DS_Store
+
+# Android
+android/local.properties
+android/app/key.jks
+android/app/google-services.json
+android/app/src/debug
+android/app/src/profile
+android/app/src/androidTest
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Debug-iphoneos/
+ios/Flutter/Release-iphoneos/
+
+# Web
+web/.dart_tool/
+web/.packages
+web/build/
+
+# Package Configurations
+*.lock
+*.bak
+
+# Generated Files
+*.log
+*.tmp
+*.tmp.*
+
+# Coverage
+coverage/
+
+# Tests
+*.test-reports/
